@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Julián
 
 🚀 **Software, Data & AI Expert — Obsessed with Performance**
+
 I build high-performance scientific software, scalable data systems, and ML pipelines that save money and accelerate research.
 
 ---
