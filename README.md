@@ -21,7 +21,7 @@ I build high-performance scientific software, scalable data systems, and ML pipe
 
 | Category          | Tools & Skills |
 |------------------|---------------|
-| **Languages**    | Python, TypeScript, JavaScript, C++, Rust, Java, SQL |
+| **Languages**    | Python, TypeScript, JavaScript, C/C++, Rust, Java, SQL |
 | **Web & Frontend** | Angular, Express, D3.js |
 | **Data & Infra** | AWS, IaaC, Docker, CI/CD, Apache Airflow, ETL, Data Lakehouse Design |
 | **ML & AI**      | Evolutionary Algorithms, ML Pipelines, Optimization |
