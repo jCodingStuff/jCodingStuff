@@ -31,8 +31,8 @@ I build high-performance scientific software, scalable data systems, and ML pipe
 
 ## 📚 Education
 
-- 🎓 **MSc Computational Science** — Uppsala University (2020–2022)
-- 🎓 **BSc Data Science & AI** — Maastricht University, *Summa Cum Laude* (2017–2020)
+- 🎓 **MSc Computational Science** — Uppsala University
+- 🎓 **BSc Data Science & AI** — Maastricht University, *Summa Cum Laude*
 
 ---
 
